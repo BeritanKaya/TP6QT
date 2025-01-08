@@ -34,3 +34,6 @@ On utilise cette commande ou 8000 est le port serveur :
 ```
 nc -l -p 8000
 ```
+
+### Video qui montre le resultat : 
+
