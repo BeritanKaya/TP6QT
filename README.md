@@ -26,5 +26,6 @@ Ce projet implémente une application console en C++ utilisant Qt pour établir 
 
 Ligne de commande : 
 ```
-
+sudo apt update
+sudo apt install qtcreator qt5-default libqt5sql5-mysql
 ```
