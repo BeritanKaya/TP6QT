@@ -29,5 +29,8 @@ Ligne de commande :
 sudo apt update
 sudo apt install qtcreator qt5-default libqt5sql5-mysql
 ```
-### Installer netcat sur le Terminal
-
+### Connexion avec QT
+On utilise cette commande ou 8000 est le port serveur :
+```
+nc -l -p 8000
+```
