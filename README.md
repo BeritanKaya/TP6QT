@@ -18,7 +18,7 @@ Ce projet implémente une application console en C++ utilisant Qt pour établir 
 ---
 ### Prérequis
 
-    Linux/Ubuntu.
+    Linux/Ubuntu(Terminal).
     Qt : Installer Qt version 5 ou supérieure, avec les modules Core et Network.
     Serveur TCP : Un serveur TCP fonctionnel à des fins de test.
 ---
@@ -29,3 +29,5 @@ Ligne de commande :
 sudo apt update
 sudo apt install qtcreator qt5-default libqt5sql5-mysql
 ```
+### Installer netcat sur le Terminal
+
