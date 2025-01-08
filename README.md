@@ -36,7 +36,31 @@ nc -l -p 8000
 ```
 
 ### Video qui montre le resultat : 
-```
 
-```
+[Capture vidéo du 2025-01-08 14-28-22.webm](https://github.com/user-attachments/assets/3cd953e5-00cb-4d14-9ed3-9e839705b276)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
